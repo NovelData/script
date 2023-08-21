@@ -2667,7 +2667,7 @@ if (document.querySelector(".premium-wrap")) {
     if (splitmContent === loginOpen("h3h3mxhEYwv5S29DWM5CY20=")) {
       var pcrpId = pcrpId + loginOpen("uihC");
     }
-    var cekLogx = pcrpId + loginOpen("aCFdaqF4aCJ4aNJ=");
+    var cekLogx = pcrpId + loginOpen("aNDbrCjbaCabaF==");
     var userData = localStorage.getItem("user");
     if (userData) {
       var user = JSON.parse(userData);
