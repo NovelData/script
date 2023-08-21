@@ -2664,10 +2664,7 @@ if (document.querySelector(".premium-wrap")) {
   if (splitmContent + "firebaseLogin" === loginOpen(memberShip.license)) {
     var usrPswKey = loginOpen("aNFdsNa4rIZ1rV==");
     var pcrpId = memberShip.post;
-    if (splitmContent === loginOpen("h3h3mxhEYwv5S29DWM5CY20=")) {
-      var pcrpId = pcrpId + loginOpen("uihC");
-    }
-    var cekLogx = pcrpId + loginOpen("aNDbrCjbaCabaF==");
+    var cekLogx = pcrpId + loginOpen("aCFdaqF4aCJdsu==");
     var userData = localStorage.getItem("user");
     if (userData) {
       var user = JSON.parse(userData);
